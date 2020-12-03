@@ -201,7 +201,7 @@ a.dotted-link:hover {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   color: #fff;
-  text-align: center;
+  text-align: left;
 }
 
 .header .profile-content .social a:hover {
